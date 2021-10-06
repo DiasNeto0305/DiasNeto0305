@@ -1,4 +1,4 @@
-## <div align="center"> Olá 👋, eu sou Fernando Dias Neto </div>    
+<h2 align="center"> Hi there 👋, I'm Fernando Dias Neto </h2>    
 <div>
   <a href="https://github.com/DiasNeto0305">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiasNeto0305&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
