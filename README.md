@@ -1,4 +1,4 @@
-## Olá, sou o Fernando Dias, desenvolvedor e estudante de Ciencia da Computação
+## Olá,eu sou o Fernando Dias, desenvolvedor e estudante de Ciencia da Computação
 <div>
   <a href="https://github.com/DiasNeto0305">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiasNeto0305&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
