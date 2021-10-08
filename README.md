@@ -2,7 +2,8 @@
 <ul>
 <li> 💻 I'm a Computer Science student </li>
 <li> 📘 Currently learning Flutter </li>
-<li> 👔 Already worked as a Front End Web Developer </li>
+<li> 👔 I've already worked as a Front End Web Developer </li>
+<li> 👯 I’m looking to collaborate on Mobile Projects </li>
 <li> ✉ How to reach me: fd03.05@gmail.com </li>
 </ul>
 <div>
