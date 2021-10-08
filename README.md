@@ -1,4 +1,10 @@
-<h2 align="center"> Hi there 👋, I'm Fernando Dias Neto </h2>    
+<h2 align="center"> Hi there 👋, I'm Fernando Dias Neto </h2>
+<ul>
+<li> 💻 I'm a Computer Science student </li>
+<li> 📘 Currently learning Flutter </li>
+<li> 👔 Already worked as a Front End Web Developer </li>
+<li> ✉ How to reach me: fd03.05@gmail.com </li>
+</ul>
 <div>
   <a href="https://github.com/DiasNeto0305">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiasNeto0305&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
